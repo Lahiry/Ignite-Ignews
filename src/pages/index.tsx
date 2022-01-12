@@ -22,7 +22,7 @@ export default function Home({ product }: HomeProps) {
       
       <main className={styles.contentContainer}>
         <section className={styles.hero}>
-          <span> <img src="/images/clapping.svg" alt="Clapping emoji" /> Hey, welcome!</span>
+          <span> <img src="/images/clapping.svg" alt="Clapping emoji" />Hey, welcome!</span>
           <h1>News about <br /> the <span>React</span> world.</h1>
           <p>
             Get access to all the publications <br />
